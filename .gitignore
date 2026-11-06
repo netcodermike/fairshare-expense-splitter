@@ -1,0 +1,32 @@
+# Build output and caches
+.git/
+build/
+bin/
+obj/
+publish/
+target/
+.build/
+.swiftpm/
+.gradle/
+.kotlin/
+.idea/
+node_modules/
+__pycache__/
+*.pyc
+*.class
+*.exe
+# App-generated stores and exports
+pantry.json
+sample-pantry.json
+ledger.properties
+tournament.properties
+maze.html
+sample.html
+*.jsonl
+unit-check
+dirwatch
+.DS_Store
+Thumbs.db
+.env
+*.env
+local.properties
